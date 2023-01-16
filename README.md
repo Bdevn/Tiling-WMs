@@ -8,3 +8,4 @@ My tendency to "WM hop" is the reason I titled this repo WMs and not specific to
 Currently I am using i3 on all my Arch installs and the reason why there are only i3 related configs here
 
 Enjoy!
+![i3blocks-awesome-scrsht](https://user-images.githubusercontent.com/17395846/212740347-56c9e1c4-774f-400d-820e-baff0d68b132.png)
